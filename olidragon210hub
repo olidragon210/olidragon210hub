@@ -1714,11 +1714,6 @@ NetlessSection:NewButton("Fe slasher r6 r15", " slasher", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true"))()
 end)
 
-NetlessSection:NewButton("Copier ID slasher", " pour icehub", function()
-    setclipboard("7548993875")
-toclipboard("7548993875")
-end)
-
 NetlessSection:NewButton("Fe reanimator v3 r6 r15", " reanimator", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/fe-reanimator-v3/main/reanimatorv3%22"))()
 end)
