@@ -1674,27 +1674,27 @@ end)
 local Netless = Window:NewTab ("Netless")
 local NetlessSection = Netless:NewSection("Netless")
 
-NetlessSection:NewButton("Fe Psycho Slasher", " psycho slasher", function()
+NetlessSection:NewButton("Fe Psycho Slasher r6", " psycho slasher", function()
     loadstring(game:HttpGet(('https://pastefy.ga/iGyVaTvs/raw'),true))()
 end)
 
-NetlessSection:NewButton(" Fe Impostor V3", " AMOGUS", function()
+NetlessSection:NewButton(" Fe Impostor V3 r6", " AMOGUS", function()
     loadstring(game:HttpGet(('https://pastefy.ga/7xEZRqfH/raw'),true))()
 end)
 
-NetlessSection:NewButton("Fe Studio Dummy V2", " studio Dummy", function()
+NetlessSection:NewButton("Fe Studio Dummy V2 r6", " studio Dummy", function()
     loadstring(game:HttpGet(('https://pastefy.ga/nJRCyZxE/raw'),true))()
 end)
 
-NetlessSection:NewButton("Fe The Glitch V2 ", " glitch", function()
+NetlessSection:NewButton("Fe The Glitch V2 r6 r15", " glitch", function()
     loadstring(game:HttpGet(('https://pastefy.ga/qqTUbyGK/raw'),true))()
 end)
 
-NetlessSection:NewButton("Fe Laser Arms", " laser arms", function()
+NetlessSection:NewButton("Fe Laser Arms r6", " laser arms", function()
     loadstring(game:HttpGet(('https://pastefy.ga/Gjlleuea/raw'),true))()
 end)
 
-NetlessSection:NewButton("Fe Fake Gorilla Tag V1", " gorrila tag", function()
+NetlessSection:NewButton("Fe Fake Gorilla Tag V1 r6 r15", " gorrila tag", function()
     loadstring(game:HttpGet(('https://pastefy.ga/osEThPw1/raw'),true))()
 end)
 
@@ -1702,15 +1702,23 @@ NetlessSection:NewButton("Fe Impostor V2", " AMOGUS", function()
     loadstring(game:HttpGet(('https://pastefy.ga/7xEZRqfH/raw'),true))()
 end)
 
-NetlessSection:NewButton("FE BOM", " bom", function()
+NetlessSection:NewButton("FE BOM r6", " bom", function()
     loadstring(game:HttpGet("https://gist.githubusercontent.com/BackScriptHubs/5e9304ea3c2f82baf0f021d977fe0cce/raw/33c218527d8d7c4bd98754662ea577d09ad9b210/FE%2520Bom%2520by%2520BackScript"))();
 end)
 
-NetlessSection:NewButton("Fe slasher", " slasher", function()
+NetlessSection:NewButton("Fe slasher r6 r15", " slasher", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true))()
 end)
 
-HubSection:NewButton("accessoire fe slasher", " epee fe slasher", function()
+HubSection:NewButton("Copier ID slasher", " pour icehub", function()
     setclipboard("7548993875")
 toclipboard("7548993875")
+end)
+
+NetlessSection:NewButton("Fe reanimator v3 r6 r15", " reanimator", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/fe-reanimator-v3/main/reanimatorv3%22))()
+end)
+
+NetlessSection:NewButton("Fe r15 fighter", " fighter", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmarXploits/Free-Scripts/main/R15-Fighter%22),true))()
 end)
