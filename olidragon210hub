@@ -508,6 +508,10 @@ HubSection:NewButton("Nullware HubV3 ", " nullware hub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/olivity289/Nullware-HubV3-/main/Nullware%20HubV3"))();
 end)
 
+HubSection:NewButton("Combat Warriors gui", " combat warriors", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/cheese-hook/main/main%20hydra%20ui.lua%22,true))()
+end)
+
 --TAILLE
 
 local Taille = Window:NewTab("Taille")
