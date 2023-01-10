@@ -1619,7 +1619,7 @@ AdminSection:NewButton("CMD-X", " admin script", function()
 end)
 
 AdminSection:NewButton("admin kick all", " kick all", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/olivity289/Admin-Kick-All/main/Admin/Kick%20All%27))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/olivity289/Admin-Kick-All/main/Admin/Kick%20All%27"))();
 end)
 
 -- Chatscript
@@ -1710,7 +1710,7 @@ NetlessSection:NewButton("Fe slasher", " slasher", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true))()
 end)
 
-NetlessSection:NewButton("epee pour le fe slasher", "...", function()
-	setclipboard("7548993875")
+HubSection:NewButton("accessoire fe slasher", " epee fe slasher", function()
+    setclipboard("7548993875")
 toclipboard("7548993875")
 end)
