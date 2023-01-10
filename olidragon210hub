@@ -1711,7 +1711,7 @@ NetlessSection:NewButton("FE BOM r6", " bom", function()
 end)
 
 NetlessSection:NewButton("Fe slasher r6 r15", " slasher", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true"))()
 end)
 
 HubSection:NewButton("Copier ID slasher", " pour icehub", function()
