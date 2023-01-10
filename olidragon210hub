@@ -1714,7 +1714,7 @@ NetlessSection:NewButton("Fe slasher r6 r15", " slasher", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true"))()
 end)
 
-HubSection:NewButton("Copier ID slasher", " pour icehub", function()
+NetlessSection:NewButton("Copier ID slasher", " pour icehub", function()
     setclipboard("7548993875")
 toclipboard("7548993875")
 end)
