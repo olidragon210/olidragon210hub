@@ -1709,3 +1709,8 @@ end)
 NetlessSection:NewButton("Fe slasher", " slasher", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/yViZavKm", true))()
 end)
+
+NetlessSection:NewButton("epee pour le fe slasher", "...", function()
+	setclipboard("7548993875")
+toclipboard("7548993875")
+end)
