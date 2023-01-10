@@ -509,7 +509,7 @@ HubSection:NewButton("Nullware HubV3 ", " nullware hub", function()
 end)
 
 HubSection:NewButton("Combat Warriors gui", " combat warriors", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/cheese-hook/main/main%20hydra%20ui.lua%22,true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/cheese-hook/main/main%20hydra%20ui.lua%22,true"))()
 end)
 
 --TAILLE
@@ -1720,9 +1720,9 @@ toclipboard("7548993875")
 end)
 
 NetlessSection:NewButton("Fe reanimator v3 r6 r15", " reanimator", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/fe-reanimator-v3/main/reanimatorv3%22))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/fe-reanimator-v3/main/reanimatorv3%22"))()
 end)
 
 NetlessSection:NewButton("Fe r15 fighter", " fighter", function()
-    loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmarXploits/Free-Scripts/main/R15-Fighter%22),true))()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/OmarXploits/Free-Scripts/main/R15-Fighter%22),true"))()
 end)
